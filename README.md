@@ -18,7 +18,7 @@ I began to take courses at SkillCrush and felt like I found something I could be
 
 #### Skills
 
-> `React` > `JavaScript` > `HTML/CSS` > `SASS w/ Gulp` > `Git / Github` > `Styled Components` > `Tailwind CSS` > `TypeScript`
+> `React` `JavaScript` `HTML/CSS` `SASS w/ Gulp` `Git / Github` `Styled Components` `Tailwind CSS` `TypeScript`
 
 ---
 
