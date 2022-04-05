@@ -1,4 +1,6 @@
-# 👋🏽 Troy Richards (He/Him) 🔮 Frontend Developer 💻
+<h1 align="center"> 
+## 👋🏽 Troy Richards (He/Him) 🔮 Frontend Developer 💻 
+</h1>
 
 Hello and welcome to my Github Page! My goal is to get into the world of tech. To achieve that goal, I have begun learning Frontend Development.
 
